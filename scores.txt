@@ -1,0 +1,7 @@
+T.J.,5,20
+Mac,3,12
+Jessie,4,11
+Mohira,3,10
+Anastasia,4,9
+JoyMay,1,8
+Taylor,2,7
