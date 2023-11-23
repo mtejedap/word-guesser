@@ -1,6 +1,6 @@
 #
 # Matias Tejeda Astaburuaga
-# WordGuesser
+# Word Guesser
 #
 
 # Import graphics and random libraries
@@ -427,7 +427,7 @@ def control_panel():
     title.setFill("black")
     title.draw(window1)
 
-    title_message = Text(Point(200,13.5),"WORDGUESSER")
+    title_message = Text(Point(200,13.5),"WORD GUESSER")
     title_message.setTextColor("gold")
     title_message.setStyle("bold")
     title_message.setSize(15)
